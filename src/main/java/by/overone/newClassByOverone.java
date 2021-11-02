@@ -14,7 +14,12 @@ public class newClassByOverone {
         System.out.println("2");
         System.out.println("3");
 
+
+        System.out.println("Великий Гэтсби");
+        System.out.println("Великий Гэтсби");
+
         System.out.println("to pull req from alOverone");
         System.out.println("to pull req from alOverone");
+
     }
 }
