@@ -5,5 +5,7 @@ public class newClassByOverone {
         System.out.println("Hello");
         System.out.println("Hello");
         System.out.println("Hello");
+
+        System.out.println("Al99");
     }
 }
