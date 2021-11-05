@@ -23,5 +23,7 @@ public class newClassByOverone {
 
         System.out.println("test cherry");
 
+        System.out.println("pull... to master");
+
     }
 }
